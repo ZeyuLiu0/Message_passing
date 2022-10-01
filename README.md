@@ -1,2 +1,2 @@
 # Demo project
-Message passing between Activities
+Message passing between android Activities
